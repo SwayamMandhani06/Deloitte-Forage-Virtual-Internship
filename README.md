@@ -60,7 +60,7 @@ LaserCutter units were the next biggest contributor to downtime.
 
 Here is the interactive Tableau dashboard I created for Task 1:
 
-![Down Time dashboard](task-1-data-analysis/Task One/Dashboard.png)
+![Down Time dashboard](Task One/Dashboard.png)
 
 ## Task 2: Gender Pay Equality Classification in Excel
 
