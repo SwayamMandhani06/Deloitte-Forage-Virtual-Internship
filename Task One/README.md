@@ -53,7 +53,7 @@ questions:
 
 ## Tableau Dashboard
 
-![Down Time dashboard](Task One/Dashboard.png)
+![Down Time dashboard](/Task%20One/Dashboard.png)
 
 ## Notes on the data file
 
